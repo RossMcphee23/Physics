@@ -10,3 +10,7 @@ Install dependecies: pip3 for program install
 Change Diresctory: cd my-env
 
 Run app: python3 pendula.py
+
+
+
+![image](https://github.com/RossMcphee23/Physics/assets/150394989/f1f2e2f2-3582-470c-a20e-9ea2ed212187)
