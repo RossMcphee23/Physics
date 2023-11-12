@@ -11,6 +11,6 @@ Change Diresctory: cd my-env
 
 Run app: python3 pendula.py
 
+<img width="1199" alt="Screenshot 2023-11-11 at 00 32 37" src="https://github.com/RossMcphee23/Physics/assets/150394989/0dde0b9f-2ac4-4322-b416-9270d6cabf20">
 
 
-![image](https://github.com/RossMcphee23/Physics/assets/150394989/f1f2e2f2-3582-470c-a20e-9ea2ed212187)
